@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "title": "Super Cool",
+    "director": "Greg Mottola",
+    "year": "2007",
+    "rating": "88%"
+  },
+  {
+    "id": 2,
+    "title": "Atlantis",
+    "director": "Gary Trousdale",
+    "year": "‎2001",
+    "rating": "62%"
+  },
+  {
+    "id": 3,
+    "title": "Zombieland",
+    "director": "Ruben Fleischer",
+    "year": "2009",
+    "rating": "77%"
+  },
+  {
+    "id": 4,
+    "title": "Haikyuu",
+    "director": "Susumu Mitsunaka",
+    "year": "2015",
+    "rating": "94%"
+  },
+  {
+    "id": 5,
+    "title": "Sinester",
+    "director": "Scott Derrickson",
+    "year": "2012",
+    "rating": "85%"
+  }
+]
