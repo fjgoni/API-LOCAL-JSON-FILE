@@ -14,7 +14,7 @@
     "is-empty": "^1.2.0",
     "morgan": "^1.10.0",
     "nodemon": "^2.0.3",
-    "underscore": "^1.10.2",
+    "underscore": "^1.12.1",
     "update-json-file": "^1.1.1"
   }
 }
